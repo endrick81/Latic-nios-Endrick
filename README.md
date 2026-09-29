@@ -2,7 +2,7 @@
 
 ## Leite cru. Origem natural. Tranquilidade em cada etapa.
 
-A Laticínios Endrick é uma empresa fictícia especializada na produção de leite cru e derivados, inspirada na tradição leiteira e nas paisagens dos Alpes Suíços.
+A Laticínios Endrick é uma empresa especializada na produção de leite cru e derivados, inspirada na tradição leiteira e nas paisagens dos Alpes Suíços.
 
 Nossa proposta parte de um conceito simples: uma produção de qualidade começa com um ambiente tranquilo.
 
@@ -20,17 +20,17 @@ Nossas vacas são representadas como animais extremamente tranquilos, vivendo em
 
 Esse é um dos conceitos centrais da identidade da Laticínios Endrick.
 
-A empresa foi criada com a proposta fictícia de trabalhar com as vacas mais tranquilas do planeta. Menos estresse, mais tranquilidade e uma produção baseada no cuidado.
+A empresa foi criada com a proposta de trabalhar com as vacas mais tranquilas do planeta. Menos estresse, mais tranquilidade e uma produção baseada no cuidado.
 
 > "Uma produção tranquila começa com uma vaca tranquila."
 
-A referência ao menor cortisol do planeta faz parte da identidade fictícia e conceitual da empresa, desenvolvida exclusivamente para este projeto acadêmico.
+A referência ao menor cortisol do planeta faz parte da identidade e conceitual da empresa, desenvolvida exclusivamente para este projeto acadêmico.
 
 ---
 
 ## Produtos
 
-A Laticínios Endrick oferece, dentro da proposta fictícia do projeto, produtos derivados do leite, incluindo:
+A Laticínios Endrick oferece, dentro da proposta do projeto, produtos derivados do leite, incluindo:
 
 - Leite fresco
 - Queijos
